@@ -1,4 +1,4 @@
-# the-self-hosted-engineer
+# The Self-Hosted Engineer
 
 Welcome **The self hosted engineer**, a journey into the world of homelabs, self-hosting, and cloud computing using open-source tools and free-tier services.
 This book is not just a technical guide—it’s a collection of my experiences, challenges, and insights as I build and manage my own infrastructure using Raspberry Pi clusters, dusty old Lenovo/Dell laptops from 2015, spare routers, and various cloud and SaaS solutions to support the softwares.
